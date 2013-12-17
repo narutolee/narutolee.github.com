@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://narutolee.github.io/sitemap.xml 

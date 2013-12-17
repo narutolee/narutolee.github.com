@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Hunk Lee's Blog]]></title>
+  <link href="http://narutolee.github.io/atom.xml" rel="self"/>
+  <link href="http://narutolee.github.io/"/>
+  <updated>2013-12-17T13:36:54+08:00</updated>
+  <id>http://narutolee.github.io/</id>
+  <author>
+    <name><![CDATA[Hunk Lee]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[How to Setup Octopress Blog]]></title>
+    <link href="http://narutolee.github.io/blog/2013/12/04/how-to-setup-octopress-blog/"/>
+    <updated>2013-12-04T19:06:50+08:00</updated>
+    <id>http://narutolee.github.io/blog/2013/12/04/how-to-setup-octopress-blog</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
